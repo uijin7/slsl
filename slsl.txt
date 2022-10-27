@@ -1,9 +1,5 @@
 slslsl
 ads
 dals
-<<<<<<< HEAD
 1
-=======
 
-2
->>>>>>> 0141d3b5c8bd19397fec9027d04195492fbef4ac
